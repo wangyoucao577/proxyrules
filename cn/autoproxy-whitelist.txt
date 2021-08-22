@@ -12,6 +12,7 @@
 ||csdn.net
 ||aliyun.com
 ||tencent.com
+||qq.com
 ||huaweicloud.com
 ||agora.io
 ||dingtalk.com
@@ -26,6 +27,11 @@
 ||nowcoder.net
 ||apple.com
 ||douban.com
+||guokr.com
+||youdao.com
+||processon.com
+||williamlong.info
+||v2ex.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
