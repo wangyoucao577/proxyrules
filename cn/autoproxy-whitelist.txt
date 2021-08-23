@@ -2,6 +2,7 @@
 ||cn
 ||bilibili.com
 ||bilivideo.com
+||biligame.com
 ||bilibili.co
 ||missevan.com
 ||baidu.com
