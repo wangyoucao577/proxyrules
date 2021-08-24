@@ -6,6 +6,9 @@
 ||bilibili.co
 ||missevan.com
 ||baidu.com
+||baidustatic.com
+||toutiao.com
+||microsoft.com
 ||bing.com
 ||liaoxuefeng.com
 ||runoob.com
@@ -33,6 +36,7 @@
 ||processon.com
 ||williamlong.info
 ||v2ex.com
+||segmentfault.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
