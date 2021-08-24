@@ -29,6 +29,7 @@
 ||126.com
 ||nowcoder.com
 ||nowcoder.net
+||acmcoder.com
 ||apple.com
 ||douban.com
 ||guokr.com
