@@ -9,6 +9,7 @@
 ||baidu.com
 ||baidustatic.com
 ||toutiao.com
+||bytescm.com
 ||microsoft.com
 ||bing.com
 ||liaoxuefeng.com
