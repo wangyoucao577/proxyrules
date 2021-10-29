@@ -5,6 +5,7 @@
 ||biligame.com
 ||hdslb.com
 ||bilibili.co
+||biliintl.co
 ||biliapi.net
 ||missevan.com
 ||baidu.com
