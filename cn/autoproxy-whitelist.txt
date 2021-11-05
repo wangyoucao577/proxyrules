@@ -42,6 +42,7 @@
 ||williamlong.info
 ||v2ex.com
 ||segmentfault.com
+||haidii.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
