@@ -43,6 +43,7 @@
 ||v2ex.com
 ||segmentfault.com
 ||haidii.com
+||taobao.org
 !--------------AutoProxy Whitelist at CN---------------
 
 
