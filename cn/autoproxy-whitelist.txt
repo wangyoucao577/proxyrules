@@ -44,6 +44,7 @@
 ||segmentfault.com
 ||haidii.com
 ||taobao.org
+||zhipin.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
