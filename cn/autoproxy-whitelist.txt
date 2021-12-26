@@ -45,6 +45,7 @@
 ||haidii.com
 ||taobao.org
 ||zhipin.com
+||ceair.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
