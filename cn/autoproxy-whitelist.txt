@@ -46,6 +46,7 @@
 ||taobao.org
 ||zhipin.com
 ||ceair.com
+||huya.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
