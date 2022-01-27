@@ -47,6 +47,7 @@
 ||zhipin.com
 ||ceair.com
 ||huya.com
+||cctv.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
