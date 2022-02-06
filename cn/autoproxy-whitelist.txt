@@ -22,6 +22,7 @@
 ||tencent.com
 ||qq.com
 ||huaweicloud.com
+||myqcloud.com
 ||agora.io
 ||dingtalk.com
 ||zhihu.com
