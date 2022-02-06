@@ -49,6 +49,7 @@
 ||ceair.com
 ||huya.com
 ||cctv.com
+||zhihuiya.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
