@@ -50,6 +50,7 @@
 ||huya.com
 ||cctv.com
 ||zhihuiya.com
+||jd.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
