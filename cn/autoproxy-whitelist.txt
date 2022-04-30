@@ -52,6 +52,7 @@
 ||cctv.com
 ||zhihuiya.com
 ||jd.com
+||jihulab.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
