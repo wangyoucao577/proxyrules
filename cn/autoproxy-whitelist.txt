@@ -4,6 +4,7 @@
 ||bilivideo.com
 ||biligame.com
 ||hdslb.com
+||smtcdns.net
 ||bilibili.co
 ||biliintl.co
 ||biliapi.net
