@@ -54,6 +54,7 @@
 ||zhihuiya.com
 ||jd.com
 ||jihulab.com
+||pgyer.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
