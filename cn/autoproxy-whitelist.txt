@@ -51,6 +51,9 @@
 ||ceair.com
 ||huya.com
 ||cctv.com
+||youku.com
+||iqiyi.com
+||miguvideo.com
 ||zhihuiya.com
 ||jd.com
 ||jihulab.com
