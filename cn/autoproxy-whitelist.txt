@@ -59,6 +59,7 @@
 ||jihulab.com
 ||pgyer.com
 ||amap.com
+||qiniu.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
