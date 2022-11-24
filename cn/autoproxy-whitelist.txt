@@ -3,6 +3,7 @@
 ||bilibili.com
 ||bilivideo.com
 ||biligame.com
+||bilibili.tv
 ||hdslb.com
 ||smtcdns.net
 ||bilibili.co
