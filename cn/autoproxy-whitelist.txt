@@ -51,6 +51,7 @@
 ||zhipin.com
 ||ceair.com
 ||huya.com
+||douyu.com
 ||cctv.com
 ||youku.com
 ||iqiyi.com
