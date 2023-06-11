@@ -24,6 +24,7 @@
 ||aliyun.com
 ||tencent.com
 ||qq.com
+||woa.com
 ||huaweicloud.com
 ||myqcloud.com
 ||agora.io
