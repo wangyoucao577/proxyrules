@@ -50,6 +50,7 @@
 ||haidii.com
 ||taobao.org
 ||zhipin.com
+||lagou.com
 ||ceair.com
 ||huya.com
 ||douyu.com
