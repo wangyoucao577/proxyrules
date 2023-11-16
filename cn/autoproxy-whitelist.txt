@@ -64,6 +64,7 @@
 ||pgyer.com
 ||amap.com
 ||qiniu.com
+||jianguoyun.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
