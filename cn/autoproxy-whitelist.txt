@@ -29,6 +29,7 @@
 ||huaweicloud.com
 ||myqcloud.com
 ||agora.io
+||agoralab.co
 ||dingtalk.com
 ||zhihu.com
 ||segmentfault.com
