@@ -22,6 +22,7 @@
 ||csdn.net
 ||51cto.com
 ||aliyun.com
+||oss-cn-*.aliyuncs.com
 ||tencent.com
 ||qq.com
 ||qqmail.com
