@@ -69,6 +69,7 @@
 ||amap.com
 ||qiniu.com
 ||jianguoyun.com
+||gitee.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
