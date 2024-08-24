@@ -70,6 +70,7 @@
 ||qiniu.com
 ||jianguoyun.com
 ||gitee.com
+||doubao.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
