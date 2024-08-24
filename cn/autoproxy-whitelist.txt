@@ -71,6 +71,7 @@
 ||jianguoyun.com
 ||gitee.com
 ||doubao.com
+||volcengine.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
