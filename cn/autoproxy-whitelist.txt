@@ -72,6 +72,7 @@
 ||gitee.com
 ||doubao.com
 ||volcengine.com
+||lingfusion.tech
 !--------------AutoProxy Whitelist at CN---------------
 
 
