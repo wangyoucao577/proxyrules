@@ -73,6 +73,7 @@
 ||doubao.com
 ||volcengine.com
 ||lingfusion.tech
+||minimaxi.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
