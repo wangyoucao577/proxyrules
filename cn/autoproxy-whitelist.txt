@@ -24,6 +24,7 @@
 ||aliyun.com
 ||oss-cn-*.aliyuncs.com
 ||tencent.com
+||tencentcloud.com
 ||qq.com
 ||qqmail.com
 ||woa.com
