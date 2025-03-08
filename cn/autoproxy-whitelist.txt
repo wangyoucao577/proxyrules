@@ -75,6 +75,7 @@
 ||volcengine.com
 ||lingfusion.tech
 ||minimaxi.com
+||yuque.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
