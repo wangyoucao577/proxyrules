@@ -76,6 +76,7 @@
 ||lingfusion.tech
 ||minimaxi.com
 ||yuque.com
+||deepseek.com
 !--------------AutoProxy Whitelist at CN---------------
 
 
