@@ -73,6 +73,8 @@
 ||gitee.com
 ||doubao.com
 ||volcengine.com
+||volcanicengine.com
+||volceapplog.com
 ||lingfusion.tech
 ||minimaxi.com
 ||yuque.com
